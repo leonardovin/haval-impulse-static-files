@@ -47,5 +47,12 @@
     "appPackageName": "org.fdroid.fdroid",
     "appLink": "https://f-droid.org/F-Droid.apk",
     "appIcon": "https://f-droid.org/repo/org.fdroid.fdroid/en-US/icon_0slNR8J9edqDZDoyWABFZrqQONU9EyiNVwM6B3Jui_Q=.png"
+  },
+  {
+    "appName": "AutoPanel Shizuku",
+    "appVersion": "1.18.0",
+    "appPackageName": "dev.leonardovin.havalbottombar",
+    "appLink": "https://github.com/leonardovin/shizuku-bottom-bar-releases/releases/download/v1.18.0/haval-bottom-bar-v1.18.0.apk",
+    "appIcon": "https://raw.githubusercontent.com/leonardovin/shizuku-bottom-bar-releases/main/icon.png"
   }
 ]
